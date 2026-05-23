@@ -24,7 +24,7 @@ main:
     url: /year-archive/
 
   - title: "Who Am I?"
-    url: /about-me/
+    url: /about/
     
   - title: "CV"
     url: /cv/
