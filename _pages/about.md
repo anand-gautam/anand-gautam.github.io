@@ -24,7 +24,7 @@ I’m a **Technical Architect/Lead, trainer, and consultant**. I:
 + Help teams deliver faster
 + Mentor others who might feel like outsiders in engineering — just like I once did. 
 
-**Why I Share This**
+**Why I Share This:**
 
 Because not everyone fits the “traditional engineer” mold. And that’s okay. If my journey proves anything, it’s that you don’t need the perfect academic background to thrive in tech. Sometimes, the engineers are made by accident.
 
