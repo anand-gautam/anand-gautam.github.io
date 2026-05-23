@@ -22,10 +22,12 @@ main:
         
   - title: "Blog Posts"
     url: /year-archive/
+
+  - title: "Who Am I?"
+    url: /about-me/
     
   - title: "CV"
     url: /cv/
-
   
   - title: "Randomness"
     url: /random/
