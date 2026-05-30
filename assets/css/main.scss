@@ -41,3 +41,25 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* --- Custom Footer and Layout Tweaks --- */
+
+/* Reduce footer text size and padding */
+.page__footer {
+  padding-top: 0.5rem !important;
+  padding-bottom: 0.5rem !important;
+  font-size: 0.7rem !important; 
+  margin-top: 1rem !important;
+}
+.page__footer footer {
+  margin-top: 0 !important;
+}
+
+/* Make layout fluid to avoid cutting off the sidebar */
+.masthead .inner, 
+.initial-content, 
+.page__footer .inner {
+  max-width: 100% !important;
+  padding-left: 2em;
+  padding-right: 2em;
+}
